@@ -1,4 +1,4 @@
-![logo](https://github.com/SakshiKshirsagar173/SakshiKshirsagar173/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/SakshiKshirsagar173/SakshiKshirsagar173/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sakshi Kshirsagar</h1>
 <h3 align="center">A passionate Data Scientist | Machine Learning Enthusiast from India</h3>
 
